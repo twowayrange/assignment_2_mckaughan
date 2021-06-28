@@ -1,0 +1,7 @@
+/Users/cartermckaughan/Git-Exercises/assignment_2_mckaughan/Raffle-App-Method/ConsoleUI/obj/Debug/ConsoleUI.csproj.AssemblyReference.cache
+/Users/cartermckaughan/Git-Exercises/assignment_2_mckaughan/Raffle-App-Method/ConsoleUI/obj/Debug/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/cartermckaughan/Git-Exercises/assignment_2_mckaughan/Raffle-App-Method/ConsoleUI/bin/Debug/ConsoleUI.exe.config
+/Users/cartermckaughan/Git-Exercises/assignment_2_mckaughan/Raffle-App-Method/ConsoleUI/bin/Debug/ConsoleUI.exe
+/Users/cartermckaughan/Git-Exercises/assignment_2_mckaughan/Raffle-App-Method/ConsoleUI/bin/Debug/ConsoleUI.pdb
+/Users/cartermckaughan/Git-Exercises/assignment_2_mckaughan/Raffle-App-Method/ConsoleUI/obj/Debug/ConsoleUI.exe
+/Users/cartermckaughan/Git-Exercises/assignment_2_mckaughan/Raffle-App-Method/ConsoleUI/obj/Debug/ConsoleUI.pdb
